@@ -9,12 +9,12 @@
  `d$$'     ,$P"'   .    $$$    
   $$P      d$'     ,    $$P    
   $$:      $$.   -    ,d$$'     m4rteleir4@debian
-  $$;      Y$b._   _,d$P'       -------------------------
-  Y$$.    `.`"Y$$$$P"'          C++ -> 8/10
-  `$$b      "-.__               C# -> 8/10
-   `Y$$                         FrontEnd -> 7/10
-    `Y$$.                       JavaScript -> 8/10
-      `$$b.                     [NEW] PHP -> 3/10 
+  $$;      Y$b._   _,d$P'       ---------------------------
+  Y$$.    `.`"Y$$$$P"'          * Optimized code ✔
+  `$$b      "-.__               * Clean Code ✔
+   `Y$$                         * No copypaste ✔
+    `Y$$.                       * Easy Learning ✔
+      `$$b.                     
         `Y$$b.                 
            `"Y$b._             
                `"""             Info: Junior Developer from Portugal 🇵🇹
