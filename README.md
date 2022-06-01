@@ -12,8 +12,8 @@
   $$;      Y$b._   _,d$P'       ---------------------------
   Y$$.    `.`"Y$$$$P"'          * Optimized code ✔
   `$$b      "-.__               * Clean Code ✔
-   `Y$$                         * No copypaste ✔
-    `Y$$.                       * Easy Learning ✔
+   `Y$$                         * Easy Learning ✔
+    `Y$$.                       
       `$$b.                     
         `Y$$b.                 
            `"Y$b._             
