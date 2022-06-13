@@ -1,7 +1,7 @@
-[m4rteleir4@debian ~]$ neofetch
+<strong>[m4rteleir4@debian ~]$ neofetch</strong> ![Views](https://komarev.com/ghpvc/?username=marteleira)
 
 <pre class="notranslate"><code>
-        _,met$$$$$gg.           m4rteleir4@debian
+        _,met$$$$$gg.           m4rteleir4@debian  
      ,g$$$$$$$$$$$$$$$P.        --------------------------
    ,g$$P"     """Y$$.".         Username: M4RTELEIR4
   ,$$P'              `$$$.      Alias: Fanafias, NipaS_PT
@@ -20,8 +20,6 @@
                `"""             Info: Junior Developer from Portugal 🇵🇹
               </code></pre>
               
-              
-![](https://komarev.com/ghpvc/?username=marteleira)
 ![M4RTELEIR4 STATUS](https://github-readme-stats.vercel.app/api?username=marteleira&show_icons=true&theme=dark&border_radius=12&icon_color=00EE00&title_color=EE0000&text_color=EEEEEE)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marteleira&hide=javascript,css,scss,html&theme=dark&show_icons=true&border_radius=12&title_color=EE0000&text_color=EEEEEE)
 <div>
@@ -32,4 +30,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" />  
 </div>
-       
