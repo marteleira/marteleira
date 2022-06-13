@@ -21,7 +21,7 @@
               </code></pre>
               
               
-
+![](https://komarev.com/ghpvc/?username=marteleira)
 ![M4RTELEIR4 STATUS](https://github-readme-stats.vercel.app/api?username=marteleira&show_icons=true&theme=dark&border_radius=12&icon_color=00EE00&title_color=EE0000&text_color=EEEEEE)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marteleira&hide=javascript,css,scss,html&theme=dark&show_icons=true&border_radius=12&title_color=EE0000&text_color=EEEEEE)
 <div>
